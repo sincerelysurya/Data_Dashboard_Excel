@@ -1,6 +1,10 @@
 ﻿"Transforming raw education finance data into compelling insights! 📊 Exploring U.S. Public School Finances in FY2020 through impactful data visualization. 🎓💼 #DataAnalytics #EducationFinance"
 
+<<<<<<< HEAD
 ! [Data Dashboard] (../images/datadashboard.png.png)
+=======
+![Data Dashboard](images/datadashboard.png.png)
+>>>>>>> d590ece8799f9bdf146b69eeb06f8753ea106827
 
 U.S. Public School Finances Dashboard
 Project Overview:
@@ -13,15 +17,23 @@ Presentation Skills: Crafted a compelling PowerPoint presentation for effective 
 Design Thinking: Created an intuitive dashboard for easy comprehension.
 Dashboard Highlights:
 Fall Enrollment Heat Map:
+<<<<<<< HEAD
 ! [Fall Enrollment Heat Map] (../images/fall_enrollment_heatmap.png.png)
+=======
+![Fall Enrollment Heat Map](images/fall_enrollment_heatmap.png.png)
+>>>>>>> d590ece8799f9bdf146b69eeb06f8753ea106827
 
 Visualized state-wise fall enrollment using a heatmap for quick insights.
 Federal Funding Top 5 Bar Chart:
-! [Federal Funding Top 5 Bar Chart] (images/top_5_states_current_spending.png.png)
+![Federal Funding Top 5 Bar Chart](images/top_5_states_current_spending.png.png)
 
 Highlighted the top 5 states receiving federal funds through a concise bar chart.
 Expenditure 3D Bar Chart:
+<<<<<<< HEAD
 ! [Expenditure 3D Bar Chart] (../images/ top_5_states_funds_received_2020.png.png)
+=======
+![Expenditure 3D Bar Chart](images/ top_5_states_funds_received_2020.png.png)
+>>>>>>> d590ece8799f9bdf146b69eeb06f8753ea106827
 
 Illustrated current spending per pupil and overall expenditure with a 3D bar chart.
 Challenges & Learning:
